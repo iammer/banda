@@ -2,7 +2,7 @@
 Lets you use a promise as you would the resolved object
 
 ##Idea
-Using es6 proxies, it should be possible to wrap a promise in an object that will let you do this:
+Using es6 proxies, it should be possible to wrap a promise in an proxy that will let you do this:
 ```js
 a.b.c().d.then(function(result) {
     //Do something with result
