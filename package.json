@@ -1,0 +1,23 @@
+{
+  "name": "banda",
+  "version": "1.0.0",
+  "description": "Lets you use a promise as you would the resolved object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iammer/banda"
+  },
+  "keywords": [
+    "promise",
+    "proxy"
+  ],
+  "author": "Michael Ratliff",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/iammer/banda/issues"
+  },
+  "homepage": "https://github.com/iammer/banda"
+}
